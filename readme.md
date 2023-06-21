@@ -1,3 +1,3 @@
 # Critical Access Hospitals
 
-This repo organizes raw data on critical access hospital (CAH) designations from **somewhere**.
+This repo organizes raw data on critical access hospital (CAH) designations from the [Flex Monitoring Team](flexmonitoring.org), which is "a consortium of researchers from the Universities of Minnesota, North Carolina at Chapel Hill, and Southern Maine. Funded by the Federal Office of Rural Health Policy (grant number U27RH01080), the [Flex Monitoring Team] evaluates the Medicare Rural Hospital Flexibility Grant Program (Flex Program)." The raw data are available for download from the [Historical CAH Data](https://www.flexmonitoring.org/historical-cah-data-0) link.
